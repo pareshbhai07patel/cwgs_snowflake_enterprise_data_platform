@@ -1,0 +1,1 @@
+# cwgs_snowflake_enterprise_data_platform
