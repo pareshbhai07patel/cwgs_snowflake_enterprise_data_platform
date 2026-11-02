@@ -1,3 +1,4 @@
+-- Provides a 360-degree view of customer details, demographics, location, and regional classifications.
 create or replace view DEV_EDP.EDP.VW_DIM_CUSTOMER360(
 	"Customer ID",
 	"Cold Weather - North",
